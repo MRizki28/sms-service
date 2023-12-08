@@ -1,5 +1,5 @@
 #### Configuration
-copy and running code in below with your terminal/command
+Register in https://console.twilio.com/
 
 Copy you twilio access and pass to .env
 
